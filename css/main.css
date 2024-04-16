@@ -2,9 +2,10 @@
 body {
     .rubik-mono one-regular {
         font-family: "Rubik Mono One", monospace;
-        font-weight: 400;
+        font-weight: 600;
         font-style: normal;
-      }      
+      }
+      
     background-color: #543e3e;
     color: #a9eead;
 }
